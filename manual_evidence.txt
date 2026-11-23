@@ -1,0 +1,590 @@
+CATALIST OFFLINE MANUAL REVIEW EVIDENCE
+This file was generated using local ChromaDB retrieval. No Gemini API was called.
+Quotes below are source text fragments; before citing, confirm the quote is an exact substring of one original speaker turn and has at least six words.
+==========================================================================================
+
+Q01 | Team TS3006
+Question: Team TS3006 planned both an LCD screen and speech recognition. When the costs forced a cut, which of the two did they drop, which did they keep, and what reason was given for keeping it?
+------------------------------------------------------------------------------------------
+
+MEETING TS3006a | retrieved 4 result(s)
+
+  [1] Speaker D | 00:01:25 | distance=0.6943
+  Uh where has my screen gone?
+
+  [2] Speaker C | 00:17:30 | distance=0.7095
+  I am gonna work on the conceptual design already 'cause yeah it's fairly important to know what kind of components we want to put in. Do we I mean, is it gonna be a multimedia control centre? Do we want to be able to use the video recorder with it?
+
+  [3] Speaker D | 00:14:03 | distance=0.7172
+  Um therefore we have to to do some internet search. For example for um well what kind of applications do current remote controls support, and what are f featur features of uh current and future televisions? So we can see uh what needs to be supported.
+
+  [4] Speaker D | 00:14:22 | distance=0.7411
+  Um and we can interview current users and future users. What w what would they like to see uh on a new remote control? Um especially for future users, uh I'm thinking of early adopters, because they they use new technology first, and they play with a lot of tools and stuff so maybe they have some good ideas to uh to add.
+
+MEETING TS3006b | retrieved 4 result(s)
+
+  [1] Speaker D | 00:11:48 | distance=0.5157
+  Yeah well it yeah it didn't it didn't say what they want to do with the screen. Well I, my guess is it's it's pretty handy for advanced uh advanced functions.
+
+  [2] Speaker A | 00:11:41 | distance=0.5281
+  So what does the screen do? They said they needed it but what does it do? What do they want with the screen?
+
+  [3] Speaker C | 00:10:14 | distance=0.5300
+  And we do have to integrate the screen and the the speech alright.
+
+  [4] Speaker D | 00:06:29 | distance=0.5313
+  Um there was some research on new features in a remote control. Uh about an L_C_D_ screen uh and speech recognition. Well we got an update for the for the audience. Or the the the targeted group. So it's above forty I guess.
+
+MEETING TS3006c | retrieved 4 result(s)
+
+  [1] Speaker A | 00:02:58 | distance=0.6304
+  Yeah. Here we go again. Welcome. Uh we have again three presentations and then we have to decide on what concepts the mobile phone has to uh f the remote control has to support. So who wants go.
+
+  [2] Speaker D | 00:03:28 | distance=0.6520
+  exist in current remote controls. I think we pretty much covered that with our screen and um and speech recognition, so I don't expect that to be a problem.
+
+  [3] Speaker D | 00:28:52 | distance=0.6586
+  I mean, the the colour of the background of the display? Ah well I don't guess it s has to be a sixty uh sixty six five thousand uh colour, so yeah too expensive. So just just a a blue blue backlight or something like that. Green is too old-fashioned. But blue, blue's okay. J
+
+  [4] Speaker A | 00:11:57 | distance=0.6695
+  Well the visual representation is not there with speech but you can
+
+MEETING TS3006d | retrieved 4 result(s)
+
+  [1] Speaker D | 00:22:58 | distance=0.5111
+  Yeah. Alright. Uh the the remote control makes use of technolog technological innovation like L_C_D_ screen and speech recognition. Well yeah but we dropped the speech recognition. But it has at least one innovation.
+
+  [2] Speaker D | 00:05:38 | distance=0.5148
+  stuff like that. Let let let me see what's more what's more popular. I guess the the screen was more popular than um than the speech recognition. I have to look on that. Let me see.
+
+  [3] Speaker C | 00:05:22 | distance=0.5318
+  Yeah it's it's expensive, but uh we never considered the possibilities of uh speech recognition. 'Cause it can take the function of a lot of uh uh buttons.
+
+  [4] Speaker D | 00:05:55 | distance=0.5616
+  Uh well no I was wrong. There are more people who like speech recognition than an L_C_D_ screen.
+
+Q03 | Team TS3009
+Question: Team TS3009 planned a titanium back for their remote. Who first proposed replacing the titanium, what did they propose instead, and was the titanium kept in the end?
+------------------------------------------------------------------------------------------
+
+MEETING TS3009a | retrieved 4 result(s)
+
+  [1] Speaker A | 00:16:57 | distance=0.6656
+  Well there has been done a lot of researches about remotes uh we have to we can imagine uh because it's a long time uh on the market. So the the form will have been uh tested out so
+
+  [2] Speaker C | 00:23:02 | distance=0.6731
+  Pink television sets pink remote,.
+
+  [3] Speaker A | 00:21:02 | distance=0.6894
+  Well I have had remotes that um they had uh the function of the buttons was about uh uh a layer over the buttons and when I've had use it much it was gone. So it has to be made in the buttons I think. It has to uh not be loose.
+
+  [4] Speaker B | 00:15:34 | distance=0.6954
+  And I think the people who who will buy our uh remote already have some experience with remotes. So we can keep that in mind.
+
+MEETING TS3009b | retrieved 4 result(s)
+
+  [1] Speaker A | 00:03:50 | distance=0.6976
+  Um the design has to fit the hand, be original, but also be familiar. It's uh one of our ideas. Yeah well that wa It's just thirty minutes ago, so it's not quite uh But well I have to do it. The materials uh well should be hard plastic with rubber from, and uh well the labelling of the buttons should be indestructible.
+
+  [2] Speaker A | 00:05:07 | distance=0.7006
+  So that's a shame, because uh especially for the third requirement we want to reach people under the thirty years. Because uh we don't have those customers a lot at th at this point. Um well it's a bit pity because it's just those people want to have uh one remote control for all those technical devices they can uh reach it.
+
+  [3] Speaker D | 00:11:30 | distance=0.7034
+  Next point. Um R_S_I_. Well that's about twenty per cent I thought. But uh the designer should uh take it uh should uh Wie zeg ik dat? Yeah, consider the consequences of using your remote. It should be a good in your hand.
+
+  [4] Speaker B | 00:29:04 | distance=0.7181
+  Uh well because most uh remotes have um some space left at the bottom, and that way you can keep the shape recognisable for everybody. I c
+
+MEETING TS3009c | retrieved 4 result(s)
+
+  [1] Speaker A | 00:11:20 | distance=0.4476
+  No titanium.
+
+  [2] Speaker B | 00:23:23 | distance=0.4581
+  I think we Why don't we um use uh titanium or or a hard, yeah, some kind of metal for the uh the the whole remote except the front. That
+
+  [3] Speaker C | 00:24:36 | distance=0.4642
+  According to my sources, uh it's it's totally possible to make an entire uh uh uh Titanium is available, and uh we can uh make uh an entire remote out of it, if we want.
+
+  [4] Speaker C | 00:23:38 | distance=0.4678
+  Yeah, I understand. Yeah. So we have titanium.
+
+MEETING TS3009d | retrieved 4 result(s)
+
+  [1] Speaker A | 00:22:12 | distance=0.3732
+  Titanium, I thi I think this this is this is e really good re remote. But
+
+  [2] Speaker C | 00:20:53 | distance=0.3984
+  I think the titanium just uh provided the the tough look and the and the
+
+  [3] Speaker B | 00:20:12 | distance=0.4024
+  Why why don't we replace the titanium with uh
+
+  [4] Speaker C | 00:22:47 | distance=0.4066
+  Titanium gone and add plastic.
+
+Q04 | Team TS3011
+Question: Team TS3011 chose a combined energy source for their remote. What was the combination, and what happened to it when the costs were added up?
+------------------------------------------------------------------------------------------
+
+MEETING TS3011a | retrieved 4 result(s)
+
+  [1] Speaker B | 00:17:00 | distance=0.6427
+  Mm-hmm. Well, I had a few uh things in mind. Um well, the interoperability, just like uh Sebastian said, um the remote should work on different T_V_s or even different uh um Yeah uh, what is it, devices?
+
+  [2] Speaker A | 00:11:21 | distance=0.6543
+  Beautiful. Okay, so um you can use this at any time during the presentation if you want to. Um any questions well, just just let me know. Um okay, back to our project. Um the remote control we are going to develop um will have a selling price of about twenty five Euros. Uh the profit we are looking for for this product is fifty million Euros, which is quite a number. Um we uh we will focus this internationally, so the product will be sold um, if there is market uh interest, uh in in more than one country. And um the production costs should not be more than uh twelve Euro fifty, so we should keep that in mind by uh w w during the development, um because uh, well, those are important numbers. Um then the discussion, maybe the time for Sebastian to show his presentation.
+
+  [3] Speaker B | 00:18:30 | distance=0.6547
+  Well, that's just the fu the technical function is pure what should the remote control do, wh what is his task uh as an uh as an uh device. It just should change the T_V_'s state. So that's it. Um but furthermore
+
+  [4] Speaker B | 00:15:15 | distance=0.6792
+  y you you can Most of them. Or you shou sh use a you should equip infrared and Bluetooth together in one remote.
+
+MEETING TS3011b | retrieved 4 result(s)
+
+  [1] Speaker C | 00:07:39 | distance=0.6390
+  Um, there's a energy source here. And um basically there it's connected to three things. The user interface connected to a chip, which is connected to the sender, which generates messages using uh infrared light, which are sent to the receiver. That's basically the idea. And there's a little picture, just for your imagination, how a device like this should look or can look. Okay. Um what have I found. Usually these kind of things consist of a battery, infrared diode, buttons, chips, and circuit board. That's all. It's cased together, nothing more than that. It's almost every piece of equipment um every piece of uh every T_V_ set is controlled infrared. There are some exceptions, but most of all have uh infrared controls. And uh the more luxury uh remote controls have lithium buttons. And I think that's what we w yes. In the and it's a little more a little bit more fancy also. So maybe we should consider that. Okay. I have a basic scheme of the things uh which are implemented. Um basically this is all there is. There's just one chip. There are a few buttons connected. Uh the buttons
+
+  [2] Speaker A | 00:16:49 | distance=0.6424
+  Yeah, m maybe um w we uh we do agree on on the thing that the remote should have such a function, if it's possible within the costs and all that kind of things. Um maybe Sebastian should have uh a detailed look later on and um come up with a solution, because that's his his field of expertise.
+
+  [3] Speaker B | 00:07:34 | distance=0.6590
+  Energies and uh
+
+  [4] Speaker A | 00:02:04 | distance=0.6783
+  Yeah. Um the top goal of this meeting is to reach a decision on the product, on the target group um and and the functions of the remote control, so keep that in mind. Um we have forty minutes. So it's now Yep. Okay. Um the new project requirements, first of all, um we didn't speak about it, but we should not um support teletext in the remote, um because our b um board uh feels that uh teletext is out of date and internet is replacing teletext. So um we are not even going to try to um implement it in our product. It's a board decision. Um the remote control should only be used for television, because it's not uh f uh feasible, it's not uh w uh uh we we cannot make it because of the time to market um that we have to deal with. Uh the third requirement is that we should focus on customers that are younger than uh forty, which is important for you, uh Ruud, and as well for uh Roo. Because the product should um be uh interesting and and uh should be bought by people younger than forty. Um
+
+MEETING TS3011c | retrieved 4 result(s)
+
+  [1] Speaker C | 00:14:08 | distance=0.5942
+  It would be very new, but it's a kind of a retro uh style, I think. Uh Well, this is quite interesting. Uh there's there's also a kinetic energy supply. So um when you're watching T_V_ uh or when you're you you have to um make some kind of energy kinetic energy by shaking the remote or throwing it against the wall, whatever you wish. It have it it has to move, that's the the sense of it. And you can store the energy in the in the thing.
+
+  [2] Speaker C | 00:30:40 | distance=0.6201
+  So uh uh just uh the energy source is um the batteries and the solar. Okay.
+
+  [3] Speaker A | 00:30:43 | distance=0.6857
+  Battery and solar, yeah.
+
+  [4] Speaker A | 00:30:17 | distance=0.6982
+  Traditional batteries uh and solar.
+
+MEETING TS3011d | retrieved 4 result(s)
+
+  [1] Speaker C | 00:24:44 | distance=0.6428
+  M about fifty Euros. That's quite ex well, it's not it's not very expensive for a remote control that that has this functionality.
+
+  [2] Speaker B | 00:24:47 | distance=0.6429
+  That's price, but w w No. An original remote control of any T_V_ kind, uh a Phillips remote control, y you pay uh
+
+  [3] Speaker B | 00:24:27 | distance=0.6629
+  And costs were twelve fifty. But even now, if only our production costs w uh were exceeded the double,
+
+  [4] Speaker A | 00:27:02 | distance=0.6718
+  Less. Yeah. So we could we we could be we could've been creative. But um it was tempered by the choice of components and the the price.
+
+Q06 | Team ES2008
+Question: Team ES2008 wanted a feature to stop the remote getting lost. What happened to that feature, who raised the main objection to it, and what was the objection?
+------------------------------------------------------------------------------------------
+
+MEETING ES2008a | retrieved 4 result(s)
+
+  [1] Speaker D | 00:13:36 | distance=0.5076
+  I think it's just T_V_, I mean, if it if we're taking it just new product a new television remote control that's not like doesn't say.
+
+  [2] Speaker A | 00:12:41 | distance=0.5494
+  Okay, so maybe have like one remote that has the main functions on, off, channel changing, volume, and another rote remote with all the special things. Because that is one thing that um remotes tend to have buttons that the T_V_s no longer have as well. So like you have to have them somewhere, 'cause you're gonna m need those special functions occasionally. Um but not necessarily on the m the normal remote.
+
+  [3] Speaker B | 00:10:03 | distance=0.5748
+  Yeah um. I agree with having too many remotes around. My dad has a whole drawer at home of remotes for various things, and I don't know how to work half of them um. What's important for me, I guess, is that it's easy to use and that there's not too many buttons, they are not too small, you know you know you need to n to know what you're doing. And one thing I particularly like is if you are not um sort of moving it around to get it to work with the infra-red. Um, I think there is a way around that, but I know in my residence right now the the television you sort of have to walk all around the room to get it to turn on, so i it's just simpler just to just turn around the T_V_ itself, and I think that's if we're gonna make a remote control, it should actually work for what it's doing.
+
+  [4] Speaker D | 00:08:33 | distance=0.5806
+  Um I hate when there's like four different buttons and you have to press to actually turn on the T_V_ like you have to do one for the power of the T_V_ and then like another one to get the actual screen on and something else to get it all going, I don't know. Now they keep combining all different remotes together, and I don't know if I necessarily like that 'cause I feel like you end up with multimedia overload. I just wanna watch the T_V_ um.
+
+MEETING ES2008b | retrieved 4 result(s)
+
+  [1] Speaker B | 00:26:54 | distance=0.4174
+  Yeah, simplification. They could have a crap remote that came with their T_V_ that's just impossible to use, or maybe it broke, or maybe they're just missing it.
+
+  [2] Speaker D | 00:06:18 | distance=0.4276
+  Ah. There we go. Wow. People do not like that. So I guess sort of the carpal tunnel type thing, people do not like that, um the repetitive use, I guess, caused a strain. Um looking at the needs people specified, the problem right now is that people's remotes are not matching their operating behaviour. People are only using ten per cent of the buttons that they have offered to them on their remote.
+
+  [3] Speaker D | 00:05:37 | distance=0.4908
+  Um people also had certain frustrations, that I think that we could try to take into consideration with our design. That being people k um frustrated with losing their remotes. I think, over fifty percent of the people mentioned that that was their biggest frustration. People are also frustrated with the difficulty it is to learn how to use a remote and I think that ties back to what you were saying before just that there's too many buttons, it just needs to be easy to use. It also mentioned something called R_S_I_ and I was hoping someone might be able to inform me as to what R_S_I_ is, because I don't know.
+
+  [4] Speaker C | 00:29:56 | distance=0.5030
+  It's for, like, the ultimately lazy people, who can't even be bothered to pick up the remote.
+
+MEETING ES2008c | retrieved 4 result(s)
+
+  [1] Speaker C | 00:16:06 | distance=0.5453
+  But it's it's it's something to bear in mind is that if we put a display on the remote control the c uh communication is one way, so you can't have the televisions and information back to the remote control, at least I don't think you can. Um I'm not sure.
+
+  [2] Speaker B | 00:29:53 | distance=0.5596
+  When you get on the on-screen menu of all your functions that your remote could do for you without the buttons and you could have a scroll wheel to go through those menus.
+
+  [3] Speaker A | 00:15:29 | distance=0.5804
+  I do think that um one of the important features for a remote is seeing a menu and seeing what's on. Um and so like favourite channels is is applicable, but I think th that you do need to have some kind of function where it's um you have t you can see the title of the show or possibly a description of it. Like I I know I use that often enough.
+
+  [4] Speaker C | 00:14:57 | distance=0.5928
+  The alternative is to have a an on-screen display on your television that you control through your remote control. Uh a bit like a bit like how they have these um digital boxes where you you press the buttons and it comes up with your this thing of watch lo what's on each channel. I mean that that's also a good idea. It's it can it does have it's problems as well, if you've got a small T_V_ and you're sitting on the other side of a room, it's hard to read the little text that comes up.
+
+MEETING ES2008d | retrieved 4 result(s)
+
+  [1] Speaker A | 00:36:40 | distance=0.3792
+  Um. I'm a little I am a little disappointed that we didn't do a um something for losing the remote, because that was kind of a big point.
+
+  [2] Speaker A | 00:37:16 | distance=0.4278
+  Well it's interesting that they Mm-hmm, yeah. It was interesting though that they put that fifty percent of people say they have frustration with losing their remote and yet they didn't provide us with information to um we weren't provided with information to discuss that.
+
+  [3] Speaker C | 00:07:29 | distance=0.4596
+  I'm not quite sure how it would work and then I wonder if it's if it's more just a gimmick then anything else. Uh I mean ho how many times do you really, seriously lose your remote control and would would a device like that actually help you to find it?
+
+  [4] Speaker B | 00:37:56 | distance=0.5159
+  I dunno. I mean we were talking about it and like i in my household at least, there's only about two places that the remote is ever 'cause there's only one T_V_ and
+
+Q07 | Team IS1008
+Question: In Team IS1008, a team member was asked to find out what adding a display would cost. Who was it, and what figure did they come back with?
+------------------------------------------------------------------------------------------
+
+MEETING IS1008a | retrieved 4 result(s)
+
+  [1] Speaker A | 00:05:45 | distance=0.6554
+  Okay. Mm-hmm. So uh you'll be leading the team for your design team or how many members is working in the team, for the design?
+
+  [2] Speaker A | 00:03:29 | distance=0.6686
+  Uh the goal of the project I think maybe I'll uh hand out to the Ed, okay, so to explain uh what is the project because he's in the sales and the accounting.
+
+  [3] Speaker C | 00:05:06 | distance=0.6760
+  Um no, I I have not begun working on the design, and um I uh I actually didn't know we were designing a remote control, I thought we were designing a new monitor. Um the website I went to look at had some announcements about an introduction of a um uh some sort of a seven inch um monitor, and um I understood that that was the project goal.
+
+  [4] Speaker D | 00:04:18 | distance=0.7519
+  So we're have to design something that is very user friendly. Something uh visual that has something that will will draw people to buy the product, because I think everybody's experienced with uh remote controls, and some remote controls are are worth uh throwing out the window.
+
+MEETING IS1008b | retrieved 4 result(s)
+
+  [1] Speaker D | 00:13:44 | distance=0.6251
+  of the industrial uh design. But, price obviously we have to talk about.
+
+  [2] Speaker A | 00:21:31 | distance=0.7049
+  Participant three.
+
+  [3] Speaker B | 00:03:26 | distance=0.7098
+  I'll do the notes. Yeah, thanks. So um well I I figured uh we should um identify some user requirements, and from my experience, I wanna uh, and from research I did, uh the the device has to turn the television on and off the first time you press on the big button, you can't uh can't have like uh waffling on this point, you know. Really have It needs to be able y y have to be able to find it. Because one of the biggest problems with remote controls is finding them. So uh, I also, since we have to establish our corporate image on the basis of this new product, thought we better look at things that are popular and um ex go beyond those, and, as I said in the first meeting, um and then uh we might wanna talk eventually about the materials that are appropriate to use in uh in the construction, especially in the the uh the outside of the product so that it gives the appearance, and it is reliable, and so forth. I did a little history on uh the the uh remote controls and when they were invented and so forth, so, I guess this guy Zenith uh created the Flashmatic, which I kinda like the
+
+  [4] Speaker B | 00:03:26 | distance=0.7126
+  idea, 'cause it made me think of um um maybe the remote control made a big flash when uh you turn the T_V_ on and off, that might be interesting. And um so it was highly directional flash light that uh you could turn the picture on and off, and the sound on and off, and change channels c so I think um those are still requirements we have today, uh fifty years later.
+
+MEETING IS1008c | retrieved 4 result(s)
+
+  [1] Speaker C | 00:22:25 | distance=0.5666
+  What do you think Ed? Do you he liked the display in one of the concepts that you showed, um, do you know how much it costs, um, to to add a little display like this uh?
+
+  [2] Speaker D | 00:19:23 | distance=0.6106
+  Although, what it was it uh it was uh Nokia that came out with this changeable colours. Right, you take it apart, and put on another face, take it off and put on another face and then they sold millions, millions.
+
+  [3] Speaker A | 00:24:14 | distance=0.6109
+  Yeah, I hope, if is it okay if uh they will come up with the prototype design, okay. Then they can show you how it looks like, and then we can uh submit to the I will submit to the management. Okay? Then meantime you can come up with the price, how much it's cost as extra for uh the display. An and the marketing strategy, that's very important, okay.
+
+  [4] Speaker A | 00:23:30 | distance=0.6403
+  I don't think so. Yes. Yes. Don't looks nice uh. Yeah, so uh what we'll do is, uh, we will stick with the the simple design for time being until uh th Ed find outs about the how much it's cost to the extra, in case we go for the display. Okay. So maybe what you can do is uh, both of you, you can come up with the the prototype, okay, the model. Okay?
+
+MEETING IS1008d | retrieved 4 result(s)
+
+  [1] Speaker D | 00:08:59 | distance=0.6307
+  Well, it just depends on if we're gonna add a o on this pr provisionary cost analysis, we do not have a L_C_ display. L_C_ display is gonna be very expensive, it's gonna be
+
+  [2] Speaker D | 00:12:24 | distance=0.6675
+  Yep, that's it. So we'll go screen by screen. Although since uh we need to have some type of idea on a market uh we had independent study that says it this this market has an availability to absorb eight mi eight million units per year. Okay? Our internal company evaluation puts it between eight to nine million which is approximately the same as the independent study.
+
+  [3] Speaker D | 00:09:36 | distance=0.6714
+  Display in. But as far as production um I'm putting up a question because we're talking about profit also, and in mine you'll see uh
+
+  [4] Speaker A | 00:07:20 | distance=0.6805
+  Okay. Yes, that uh So I'll come back to the So evaluation criteria, I think uh that will be good, so then let's come to the finance uh, I have some uh calculations which I made uh as for uh the budget. So here you can uh look like uh the energy and uh dynamo and uh kinetic and solar cells. Uh it's optional, somewhat optional and Ed wants the chip on print, that's what uh we were talking about that. So then we have sample sensor and sample speaker, then uh we have the wood material, then special colour and push button. So it's uh actually, our budget was uh twelve point five Euro, but uh it's coming to nine point nine five Euro, so we are under uh below the budget, okay, so still we are saving some money. I think it's a good figure.
+
+Q09 | Team IS1002
+Question: What selling price was Team IS1002 working with at first, what price range did they settle on later, and which speaker pushed hardest for a higher, more exclusive price?
+------------------------------------------------------------------------------------------
+
+MEETING IS1002b | retrieved 4 result(s)
+
+  [1] Speaker B | 00:08:55 | distance=0.6458
+  Uh I don't have any figures right now. We uh we have to wait until we get to a more specific design phase for that. Um but and I think a significant part of the cost could be the actual the actual casing itself and and you know the the b the buttons and things like that, I think.
+
+  [2] Speaker D | 00:31:07 | distance=0.6521
+  Yeah for for multi for a multi-function remote, that's a mid-market price. In a discount right now you can buy 'em on sale sometimes for about about uh eighteen, nineteen Euro, and that's for the multi-functions, uh D_V_D_, V_C_R_, uh catch-alls. And and they have 'em in a little box in the middle, and and this is the consciousness that most people have about replacement remote controls. So to me, to market this a t only a television remote control we have to change consciousness.
+
+  [3] Speaker A | 00:30:59 | distance=0.6524
+  We only have a few minutes left. Is twenty-five Euros a mid-market price for a remote? Okay.
+
+  [4] Speaker B | 00:26:27 | distance=0.6555
+  Yeah. I just don't know about that, because in order to do that in order to price it at that kind of level I think we'd need to have every functionality that all the other competitors are offering like being able to operate, you know, the D_V_D_ player and, you know, the stereo system and all that. Which is a pretty basic function that w we've opted out of. And additionally we're m maybe not supporting teletext um
+
+MEETING IS1002c | retrieved 4 result(s)
+
+  [1] Speaker A | 00:23:29 | distance=0.5899
+  But I guess a little tiny speaker is gonna be quite cheap, it's not gonna need q quality, is it? It's
+
+  [2] Speaker A | 00:30:14 | distance=0.5926
+  Yeah. So we really need to be sure as to what we can push the cost up to, though we haven't got to a stage where we're ready to pin down the price of components. But I'd say what sorta price are we looking to be able to sell something like that, and what sorta price can we make it for?
+
+  [3] Speaker B | 00:31:09 | distance=0.6160
+  Well y yeah. Let's let's try and think now, how much would you pay for with all these features how much would you pay if you went to the store, and you were in the market f to replace your T_V_ remote, how much would you pay for that?
+
+  [4] Speaker D | 00:31:10 | distance=0.6720
+  We have to find cost.
+
+MEETING IS1002d | retrieved 4 result(s)
+
+  [1] Speaker B | 00:01:53 | distance=0.5252
+  Unit price.
+
+  [2] Speaker B | 00:13:11 | distance=0.6425
+  Well, that was just just our technical team added up the um production costs of the individual units.
+
+  [3] Speaker C | 00:01:37 | distance=0.6682
+  Um yeah so what we ended up with. Production costs estimated by our manufacturing department and um the research department, which is us, is uh fifteen point eight Euros, someone forgot the units there yeah, uh unit price unit production price cost thing. Um
+
+  [4] Speaker A | 00:20:06 | distance=0.6817
+  Nope. Oh hang on it really that's something we that the costs were under twelve fifty Euros. No requirements are changed. We're still under twenty Euros to build, so we're good. And the costs within the budget? Not the original budget, but they are now. Is the project evaluated? Mm I think so yeah, then celebration as it says.
+
+Q13 | Team TS3004
+Question: Team TS3004 changed its mind about speech recognition more than once. Was speech recognition in their final design, and in which of their four meetings did they last reverse their position on it?
+------------------------------------------------------------------------------------------
+
+MEETING TS3004a | retrieved 4 result(s)
+
+  [1] Speaker A | 00:11:33 | distance=0.7043
+  I don't know, what time did we start this meeting, I'm not sure.
+
+  [2] Speaker A | 00:02:28 | distance=0.7062
+  Ah cool. Okay. So that's my name,. Uh we're going to make uh a remote control, you already know that. Just have a look, are we going to uh this agenda of our meeting. You know, this is about twenty five minutes, this meeting. So um the thing we have to know is you already know what we're going to do, you also read what this the things or, not yet, okay. So um, yeah, it has to be original, trendy, user-friendly that's what we're going to design. Uh first we have uh uh three steps of uh making the the remote control. Fir the first thing is th the functional design, that's very important. We have to look what the needs are, the effects of the functional design, and and how the mm the the remote control works, so that's where we're going to look in the functional design, it's for the f next meeting.
+
+  [3] Speaker D | 00:13:38 | distance=0.7825
+  Yeah, I think.
+
+  [4] Speaker A | 00:13:46 | distance=0.7973
+  Yeah, everything just so a lot of buttons on the remote control.
+
+MEETING TS3004b | retrieved 4 result(s)
+
+  [1] Speaker B | 00:32:43 | distance=0.5493
+  I d Yeah. I don't think it's uh useful enough to take the effort to design something with uh speech recognition.
+
+  [2] Speaker D | 00:08:41 | distance=0.6041
+  I I think we can speak, uh we can skip speech recognition uh directly, because it's not reachable for twenty five Euros. Um then
+
+  [3] Speaker D | 00:33:24 | distance=0.6249
+  Okay, no speech recognition.
+
+  [4] Speaker A | 00:02:47 | distance=0.6840
+  Okay, so the f the f the points we had last meeting was the um Should be a univ uh universal remote control No, that's I uh s I just got a email from the from the personal coach and it should be a T_V_ remote control only. So have you changed that part? Um so yeah, it still has to be uh f a r a remote control for kids and elderly. It's it's still the same. Um
+
+MEETING TS3004c | retrieved 4 result(s)
+
+  [1] Speaker B | 00:39:45 | distance=0.4416
+  Yeah, our division has developed a new speech recognition feature, the integrated programmable sample sensor simple speaker u unit. This is a very small electronic unit, will give a standard answer after it recognise a question.
+
+  [2] Speaker C | 00:10:20 | distance=0.4529
+  Yeah, probably too. I I haven't got anything about speech recognition, but
+
+  [3] Speaker C | 00:38:54 | distance=0.4722
+  Yeah, and I do I don't know anything about that. I d I didn't receive any information on speech recognition, so
+
+  [4] Speaker B | 00:10:17 | distance=0.5067
+  Okay. And speech recognition?
+
+MEETING TS3004d | retrieved 4 result(s)
+
+  [1] Speaker B | 00:01:18 | distance=0.4501
+  Are we doing the the speech recognition? Because we didn't have enough time to uh de um design the inside as well.
+
+  [2] Speaker A | 00:04:10 | distance=0.4854
+  Yeah, speech recognition. Just Only one button to say it's on or off.
+
+  [3] Speaker D | 00:21:24 | distance=0.5017
+  The speech function is new. The scrollwheel and the slide. Uh I think the slide is pretty new.
+
+  [4] Speaker C | 00:21:50 | distance=0.5672
+  Speech is new.
+
+Q19 | Team IS1003
+Question: Team IS1003 picked a natural material for the case and later changed it. What was the material, what replaced it, and who suggested the switch?
+------------------------------------------------------------------------------------------
+
+MEETING IS1003a | retrieved 4 result(s)
+
+  [1] Speaker C | 00:08:01 | distance=0.7795
+  There was a step about drawing something in the in the board, I don't know.
+
+  [2] Speaker A | 00:07:40 | distance=0.7825
+  And to be sure that really people will be interested in buying a new remote control with maybe new functionalities that don't exist in the mm existing remote controls now.
+
+  [3] Speaker D | 00:05:15 | distance=0.7894
+  So which you, the Industrial Designer.
+
+  [4] Speaker B | 00:05:30 | distance=0.7898
+  user interface design d industrial design?
+
+MEETING IS1003b | retrieved 4 result(s)
+
+  [1] Speaker B | 00:07:14 | distance=0.7180
+  how to relate the remote control device, like for example this one I h I'm holding in my hand and the T_V_. So, this one is leather bu based but
+
+  [2] Speaker B | 00:08:53 | distance=0.7191
+  This is in fact some other component that are in between the electrical de the electronic device.
+
+  [3] Speaker B | 00:18:18 | distance=0.7216
+  Look fancy. This is a question that should be asked to the If you ask the people, maybe the the marketing people.
+
+  [4] Speaker D | 00:24:29 | distance=0.7274
+  Yellow? T_V_ remote control?
+
+MEETING IS1003c | retrieved 4 result(s)
+
+  [1] Speaker A | 00:25:22 | distance=0.5921
+  So you think case. Something spongy. Someth no wood.
+
+  [2] Speaker A | 00:19:12 | distance=0.5957
+  Okay. And what tha what about the uh materials?
+
+  [3] Speaker B | 00:16:58 | distance=0.6256
+  So I in fact the the f something I want to discuss is which kind of material are we going to use, so will it will be wooden wooden di wooden remote control or a a plastic remote control like this one. So and in which which which kind will be the the different bu button, so it can be some, you know, classic pushbutton like this one, or you have also some button like L_C_D_ where you know, the button the buttons are unlighted during the night, or, you know, you can see them in the darkness. And
+
+  [4] Speaker D | 00:24:18 | distance=0.6426
+  plastic-like, but rubber, mayb maybe, you know, rubber-like uh
+
+MEETING IS1003d | retrieved 4 result(s)
+
+  [1] Speaker B | 00:20:10 | distance=0.6976
+  Wooden.
+
+  [2] Speaker A | 00:30:11 | distance=0.7074
+  The thing now is to to sell it.
+
+  [3] Speaker D | 00:23:46 | distance=0.7144
+  Case, what's the ca
+
+  [4] Speaker C | 00:25:09 | distance=0.7251
+  Which part is the most expensive part?
+
+Q21 | Team IS1007
+Question: In Team IS1007, one member said they would check the prices of components. Who was it, what total did they report for a version with all the functions, and what did the team then decide about the LCD?
+------------------------------------------------------------------------------------------
+
+MEETING IS1007a | retrieved 4 result(s)
+
+  [1] Speaker A | 00:08:31 | distance=0.7164
+  I I think if we include a lot of technology on the remote control it will be very costly.
+
+  [2] Speaker A | 00:01:17 | distance=0.7420
+  So, we are asked to to make uh uh a new remote control for television. And the characteristics of this new remote control should be original and trendy and of course user user friendly. So people can can use it without any any problem. . I don't know.
+
+  [3] Speaker C | 00:11:34 | distance=0.7563
+  Yeah, yeah. So I think for for the technical points we have to to to check how to gather the data from programme or contents and all this stuff
+
+  [4] Speaker D | 00:12:44 | distance=0.7673
+  The lapel.
+
+MEETING IS1007b | retrieved 4 result(s)
+
+  [1] Speaker B | 00:09:10 | distance=0.6667
+  Yeah, yeah, yeah. Ours is a bit uh different. So these are two example. One is from the other one is from, yeah, uh engineering centr yeah. This is the most competing prototypes I've found. But then uh loo but then I found if you look at you see on the left one there are too many buttons
+
+  [2] Speaker D | 00:15:50 | distance=0.6972
+  I mean we have to look for a trade-off. The features and the cost.
+
+  [3] Speaker C | 00:02:43 | distance=0.6972
+  communication with the T_V_ set is uh made through uh infrared communication So uh this is the the schema of the o of the future uh remote controls so uh you can you can see the components, uh battery and uh the two chips goes to the infrared uh connection to the T_V_ set.
+
+  [4] Speaker D | 00:02:39 | distance=0.7108
+  Slide show, view slide show,.
+
+MEETING IS1007c | retrieved 4 result(s)
+
+  [1] Speaker C | 00:21:47 | distance=0.5656
+  So price of uh L_C_D_ display. And
+
+  [2] Speaker B | 00:20:03 | distance=0.7108
+  Big screen.
+
+  [3] Speaker B | 00:21:15 | distance=0.7141
+  Yeah. Mm. Remember we have a s budget for the cost of producing the remote controller.
+
+  [4] Speaker C | 00:13:36 | distance=0.7144
+  Yeah but uh as Norman say if uh there is uh already a commercial product available who t who do this we we can check uh to integrate it i into our uh new remote control.
+
+MEETING IS1007d | retrieved 4 result(s)
+
+  [1] Speaker B | 00:21:32 | distance=0.6159
+  Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_?
+
+  [2] Speaker C | 00:13:44 | distance=0.6214
+  Two dollars for the uh for the add-on modules, and finally three dollars for the charger. So if you uh sum up uh everything
+
+  [3] Speaker A | 00:04:12 | distance=0.6321
+  How much does it cost this one?
+
+  [4] Speaker A | 00:08:57 | distance=0.6502
+  production
+
+Q24 | Team ES2002
+Question: What power source did Team ES2002 first agree on, what addition did their project manager like the idea of, and what did the final design use?
+------------------------------------------------------------------------------------------
+
+MEETING ES2002a | retrieved 4 result(s)
+
+  [1] Speaker A | 00:02:12 | distance=0.6175
+  Um, I just got the project announcement about what the project is. Designing a remote control. That's about it, didn't get anything else. Did you get the same thing?
+
+  [2] Speaker B | 00:01:29 | distance=0.6833
+  Great. Okay. Um so we're designing a new remote control and um Oh I have to record who's here actually. So that's David, Andrew and Craig, isn't it? And you all arrived on time. Um yeah so des uh design a new remote control. Um, as you can see it's supposed to be original, trendy and user friendly. Um so that's kind of our our brief, as it were. Um and so there are three different stages to the design. Um I'm not really sure what what you guys have already received um in your emails. What did you get?
+
+  [3] Speaker B | 00:17:01 | distance=0.7059
+  Um. Yeah, so it's th the functional design stage is next, I guess. And uh and that's the end of the meeting. So I got that little message a lot sooner than I thought I would, so
+
+  [4] Speaker B | 00:14:41 | distance=0.7106
+  Um okay, uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes. Um I'll just check we've nothing else. Okay. Um so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all?
+
+MEETING ES2002b | retrieved 4 result(s)
+
+  [1] Speaker D | 00:15:12 | distance=0.6367
+  So I think what we're doing is we're trying to take like if for me this is sorta like three different different um inspirations, you know, one is that we want uh something that's high-tech but we want it to seem easy. And in spite of the primitive side of it and the very high-tech side, we want it to just be an appealing piece of equipment in people's hands. Um, frustrations. They get lost a lot, s as it came up in our last meeting. Um, takes time to learn how to use them. This is uh why I mention when Craig was uh showing us some ideas that we actually try and group controls, so d it doesn't just look like a big panel, kinda like when you you look at, you know, a new computer keyboard, or something that is quite explanatory. If you want audio, if you want visual, then you have those. Um
+
+  [2] Speaker B | 00:00:14 | distance=0.6409
+  Is that alright now? Okay. Sorry? Okay, everybody all set to start the meeting? Okay, we've got half an hour for this one um to uh discuss the um functional design. All ready to go? Okay. Um so hopefully you've all been working away, and I've put the minutes of the last meeting in the project folder. Um so I guess just to to recap on uh what we did last time. Um kind of uh got to know each other a little bit and uh got familiar with all the equipment and started to discuss um a bit about the project, you know, cost-wise how much how much money we had to s
+
+  [3] Speaker C | 00:04:18 | distance=0.6483
+  so this is the technical functions design. Um Right to do the um the design I have I've had a look online, I've had a look at the homepage, which has given us um some insp inspiration from previous products. Um I've had a look at the previous products to see what they offer and um I would like to ask you guys for um your ideas about the design at the end of the meeting. Um unfortunately we're not allowed to talk outside the meeting room, so
+
+  [4] Speaker B | 00:01:40 | distance=0.6493
+  Um just want to tell you that you have three new requirements, um which is the The first one is that um uh the company's decided that teletext is outdated uh because of how popular the internet is. Nobody uses teletext very much anymore, so we don't really need to consider that in the functionality of the of the remote control. Um they've also suggested that we um we only use the remote control to control the television, not the V_C_R_, D_V_D_ or anything else. I think the worry is that if the project becomes too complex then it'll affect um how long it takes us to get it into into production, the time to market. So um, we're just gonna keep it simple and it'll just control the T_V_. And the other thing was that the company want the corporate colour and slogan to be implemented in the new design.
+
+MEETING ES2002c | retrieved 4 result(s)
+
+  [1] Speaker B | 00:00:30 | distance=0.6522
+  decided on our our target group being fifteen to thirty five, and we decided that it was gonna be non-rechargeable battery-powered, that we're gonna group our audio-visual and other functions into into those categories, um. And I told you guys about the three new requirements about ignoring teletext, ignoring everything except the T_V_, and trying to incorporate the the uh corporate colour and slogan.
+
+  [2] Speaker D | 00:33:25 | distance=0.6811
+  Um just a a lot of the um I mean one of the things running through my mind right now, I realise we're being efficient to wrap up the meeting and have lots of decisions made, um but we are leaning quite a bit to the side of being low-tech, rubber buttons plastic frame, it's almost like we're reproducing the same old remote control that's out there. Should we think about how we are actually getting this high-tech user friendly uh um theme like what is it that we're u we're using to to achieve those goals? Like
+
+  [3] Speaker A | 00:29:39 | distance=0.6855
+  Yeah but the question is what are we using it what would we what would we achieve from it? Putting in lights is cheap but putting in an L_C_D_ panel just to make it glow is a bit of a
+
+  [4] Speaker B | 00:38:52 | distance=0.6883
+  Okay I'm gonna have to I'm gonna have to call this to a close 'cause we're way over time. So um that's really good, like we've s had much to talk about that um pretty much run out of time to do so. So off you go and design stuff wooh.
+
+MEETING ES2002d | retrieved 4 result(s)
+
+  [1] Speaker B | 00:31:07 | distance=0.5879
+  Yeah. Yeah. Okay. Okay. Right, uh anything else to say on teamwork at all? Okay, um what about the you know how we used the whiteboard, the digital pens, the projector, stuff like that? Um did anybody think anything was like really useful, anything was pretty un f
+
+  [2] Speaker B | 00:00:02 | distance=0.6407
+  Okay we all all set? Right. Well this is the uh final detailed design meeting. Um we're gonna discuss the look and feel design, the user interface design, and we're gonna evaluate the product. And the end result of this meeting has to be a decision on the details of this remote control, like absolute final decision, um and then I'm gonna have to specify the final design in the final report. So um just from from last time to recap, we said we were gonna have a snowman shaped remote control with no L_C_D_ display, no need for talk-back, it was hopefully gonna be kinetic power and battery uh with rubber buttons, maybe backlighting the buttons with some internal L_E_D_s to shine through the casing, um hopefully a jog-dial, and incorporating the slogan somewhere as well. Anything I've missed? Okay um so uh if you want to present your prototype go ahead.
+
+  [3] Speaker B | 00:05:30 | distance=0.6477
+  Well of the designers what are they?
+
+  [4] Speaker A | 00:30:13 | distance=0.6594
+  I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools.

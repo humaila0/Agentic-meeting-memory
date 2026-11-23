@@ -1,0 +1,28 @@
+Pre-Final-Meeting Brief: Team TS3012
+
+1. Decisions and Direction
+- The project is planned in three design phases, beginning with functional design. [TS3012a: "First step will be the functional design"]
+- The team confirmed that younger people are its target audience. [TS3012c: "We're definitely focussing on the younger people, 'cause that was our main goal."]
+- The team discussed using fibreglass for the circuit board and copper for the wires as standard materials. [TS3012b: "Normally, a circuit board is made of fibreglass uh and the wires are made of copper."]
+- The team agreed to use regular batteries and discussed rubber as the remote's case material. [TS3012c: "we choose regular regular batteries. The chip is advanced because we have the advanced features. The case, it will be the material will be rubber"]
+
+2. What Changed and Why
+- The LCD screen's status changed during the discussions. In meeting b, Speaker A suggested removing it because of its size and battery consumption. In meeting c, the team considered including it and discussed both deluxe and standard designs. Its final inclusion was not conclusively settled in these meetings. [TS3012b: "I think we should lose the L_C_D_ screen, like you said."] [TS3012c: "I have two designs, one including uh an L_C_D_ screen"]
+- The team moved from functional design in the first meeting to conceptual design in the later discussion. [TS3012a: "First step will be the functional design"] [TS3012c: "Well second phase, conceptual design."]
+
+3. Open Actions and Named Owners
+- Speaker C is working on a material study to check costs and feasibility. [TS3012b: "Material study, I'm working on that um for the the costs."]
+- Speaker B offered to draw some ideas for the next meeting. [TS3012b: "I can draw out some ideas."]
+- The team was asked to work together on the final internal and external design. The individual owners are not explicitly identified in this instruction. [TS3012c: "you should work together on the final design, both on internal and external design."]
+- Speaker A is responsible for work on the project report. [TS3012c: "I'm supposed to do the little work on the year-end report. So the project report."]
+- Speaker D, who introduced himself as the Marketing Expert, said he would investigate user needs. [TS3012a: "And I will see what the user wants and uh what we can do"]
+
+4. Unresolved Disagreements and Questions
+- The team had not settled whether to develop the deluxe version with an LCD screen or the standard version without one. [TS3012c: "I have two designs, one including uh an L_C_D_ screen"] [TS3012c: "Which basically has the same functionality, but lacks the L_C_D_ screen."]
+- The base colour remained unresolved. Black, yellow, company colours and a neutral base colour were discussed. Speaker A eventually suggested leaving the decision to the others. [TS3012c: "it's better to have a neutral base colour than to have a flashy"] [TS3012c: "I think we should go with uh with the company colour"] [TS3012c: "I'm not gonna do this. That's up to you guys."]
+- Finance information was still missing, and the team was uncertain whether it would receive it. [TS3012c: "I still don't have any finance information"] [TS3012c: "I'm not sure if we're if we're gonna get finance anyway"]
+
+5. Cost and Budget Implications
+- Fabrication costs were a concern, and Speaker B described the budget as tight. [TS3012b: "And it costs too much to fabricate, so we're on a tight budget here."]
+- Integrating materials and producing more parts together could reduce production costs. [TS3012b: "The more we can make uh at once uh in one piece, uh that is cheaper."]
+- More curves in the remote's shape would increase its cost. [TS3012c: "the more curves the more expensive."]

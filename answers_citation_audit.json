@@ -1,0 +1,24 @@
+{
+  "issues": [
+    {
+      "question_id": "Q03",
+      "problem": "fewer than two distinct meetings cited"
+    },
+    {
+      "question_id": "Q06",
+      "problem": "fewer than two distinct meetings cited"
+    },
+    {
+      "question_id": "Q15",
+      "problem": "fewer than two distinct meetings cited"
+    },
+    {
+      "question_id": "Q19",
+      "problem": "fewer than two distinct meetings cited"
+    },
+    {
+      "question_id": "Q23",
+      "problem": "fewer than two distinct meetings cited"
+    }
+  ]
+}

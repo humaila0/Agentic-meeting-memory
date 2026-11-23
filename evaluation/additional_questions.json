@@ -1,0 +1,105 @@
+{
+  "instructions": "Ten additional evaluation questions, distinct from the original 25. Each question is designed to require evidence from at least two meetings of the named team. Fill expected_answer and manually verified citations after checking exact original speaker turns. Do not invent system answers or scores.",
+  "questions": [
+    {
+      "question_id": "EX01",
+      "team": "ES2005",
+      "question": "What did ES2005's consumer survey reveal about how users viewed the appearance of existing remotes and how many buttons they actually used, and how did the team's later design priorities respond to those findings?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Easy. Candidate evidence meetings: ES2005b, ES2005c, ES2005d."
+    },
+    {
+      "question_id": "EX02",
+      "team": "TS3008",
+      "question": "Which company-identity elements were required in the new remote, and how did the team later propose incorporating the logo into the remote or its docking station?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Easy. Candidate evidence meetings: TS3008b, TS3008c, TS3008d."
+    },
+    {
+      "question_id": "EX03",
+      "team": "IS1005",
+      "question": "What practical problems did users report with conventional remote controls, especially around button size, visibility, and use in dark rooms, and what improvements were proposed?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Easy. Candidate evidence meetings: IS1005a, IS1005b, IS1005c."
+    },
+    {
+      "question_id": "EX04",
+      "team": "IS1001",
+      "question": "How did IS1001's interface proposal evolve from a combined voice-command and physical-button system into a simpler layout, and which controls were intended to be less prominent or protected?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Medium. Candidate evidence meetings: IS1001b, IS1001c, IS1001d."
+    },
+    {
+      "question_id": "EX05",
+      "team": "IS1004",
+      "question": "What ergonomic options did IS1004 consider for right- and left-handed users, and what main controls did the final design retain after the team decided against LCD and speech-recognition technology?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Medium. Candidate evidence meetings: IS1004b, IS1004c, IS1004d."
+    },
+    {
+      "question_id": "EX06",
+      "team": "IS1006",
+      "question": "Why did IS1006 consider child-proofing and durability important, and what concerns did the team raise about using a screen-based interface instead of a simpler set of controls?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Medium. Candidate evidence meetings: IS1006a, IS1006b, IS1006c."
+    },
+    {
+      "question_id": "EX07",
+      "team": "ES2012",
+      "question": "How did ES2012 respond to complaints about complicated controls and repetitive-strain discomfort, and what technical or time-to-market limitation affected its consideration of voice recognition?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Medium. Candidate evidence meetings: ES2012b, ES2012c, ES2012d."
+    },
+    {
+      "question_id": "EX08",
+      "team": "ES2015",
+      "question": "How did ES2015 try to reduce repetitive-strain injury through both the remote's material and the way users operated it, and what possible drawback did a team member identify?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Hard. Candidate evidence meetings: ES2015b, ES2015c, ES2015d."
+    },
+    {
+      "question_id": "EX09",
+      "team": "TS3005",
+      "question": "How did TS3005 describe the sequence from pressing a button to the television receiving an infrared command, and what did its later prototype show about the placement of the main controls?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Hard. Candidate evidence meetings: TS3005b, TS3005c, TS3005d."
+    },
+    {
+      "question_id": "EX10",
+      "team": "ES2013",
+      "question": "What alternative to replaceable AA batteries did ES2013 consider, what user benefits were expected, and how was the docking-station idea connected to that proposal?",
+      "expected_answer": "",
+      "manual_citations": [],
+      "system_answer": "",
+      "score": null,
+      "notes": "Difficulty: Hard. Candidate evidence meetings: ES2013b, ES2013c, ES2013d."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "answers": [
+    {
+      "question_id": "EX01",
+      "answer": "The consumer survey revealed that seventy-five percent of users considered existing remote controls to be ugly, and fifty percent of users used only ten percent of the buttons. In response to these findings, the team prioritized creating a good-looking design with fewer buttons rather than making the remote too complicated or bulky.",
+      "citations": [
+        {
+          "meeting_id": "ES2005b",
+          "quote": "And what we got was, we found that if you uh, what they th what problems they are having with different uh remote controls available in the market. Seventy five percent of users they do find it that the remote controls available in the market are ugly. They are not so good looking. So, we have to put stress on this, uh we have to take care of this fact also like our design, uh should be appropriate, should be good looking for the consumers. And yes that's wi uh this will definitely, this can definitely put uh uh enhance our sales. Uh and even uh the good thing about this is that eighty percent of users they are willing to pay high uh pay more for this uh good looking remote controls also. So even if the available market goes for the available uh even if the market goes for the available remote control is less even then we can sell it at twenty five Euros, which maybe which may seem quite high but if our looks are are if the re remote control we design have a good better uh better look uh designs, then we can hope that consumers will prefer these g remote controls. Then"
+        }
+      ],
+      "verification_issues": [
+        "Evidence must cover at least two distinct meetings of the team"
+      ]
+    },
+    {
+      "question_id": "EX02",
+      "answer": "The required corporate identity elements included a recognisable corporate image, colour, logo, or slogan. The team later proposed putting the logo on the base station and very tiny on the remote control itself.",
+      "citations": [
+        {
+          "meeting_id": "TS3008d",
+          "quote": "Right, the rem The remote control has recognisable corporate image, colour, logo or slogan."
+        },
+        {
+          "meeting_id": "TS3008c",
+          "quote": "draw really nicely over there. We can put the logo on our uh on our base station. Uh, yeah. And maybe very very tiny on the remote control itself. But, i"
+        }
+      ]
+    },
+    {
+      "question_id": "EX03",
+      "answer": "Users reported that conventional remote controls have many small, hard-to-see and hard-to-press buttons, and lack a backlight for use in dark rooms. Proposed improvements include incorporating a backlight, using fewer and bigger buttons, and designing simpler buttons or rolling options.",
+      "citations": [
+        {
+          "meeting_id": "IS1005b",
+          "quote": "And uh also as uh I understood, and uh I think it was a part of uh Bob, uh uh presentation, people prefer to have uh to have uh the remote control with less button. So for the electronic part, working and interfacing, with button, we should we should try to t try to design a remote control having uh some some simpler buttons or some rolling buttons to just to just to search between different options, and showing o something on T_V_ and putting less lesser stuff on the uh on the remote control. And uh personal preferences, uh uh uh uh certainly a remote control with uh working with radio waves is uh preferred because uh you can pr you can take it in any direction and you don't need to tune it any way. And uh uh again, using bigger buttons and less number of buttons are also preferred, as I see. Okay. That was my presentation."
+        },
+        {
+          "meeting_id": "IS1005a",
+          "quote": "Well, from experience, um I've had remote controls in the past that have had very they've had lots and lots of buttons and they've been very small, and it's been very hard to to to use, because there's so many buttons, and you know it's very hard to see which buttons do what, and the buttons are very small and very hard to press. Um and and normally you only every use, you know, on a T_V_ remote you only ever use, mostly, you know, f four or f six buttons. Um."
+        }
+      ]
+    },
+    {
+      "question_id": "EX04",
+      "answer": "Initially, the interface was proposed to consist of a voice command part and an actual buttons part, but it evolved into a simpler layout that eliminated voice features and LCDs to reduce costs and complexity. The channel digit buttons were specifically intended to be protected by a plastic cover or something similar to keep the remote control looking very simple.",
+      "citations": [
+        {
+          "meeting_id": "IS1001c",
+          "quote": "So we are here for the concept design meeting. So, we will first start by summarizing the mm the previous meeting and the decision we've taken. Uh I will take notes during this meeting so uh that you can uh look at my uh folder to see the summary of this meeting afterwards. So each of you will uh show us the various investigation they've done during uh previous uh hours. We'll then t take decision in concert and then uh uh we will uh define the nest next task, to have to be done before the next meeting. So, last time we decided to have a simple interface. We also decided to have a wheel to change channel previous channel button. Channel digit uh buttons should be uh protected by plastic cover or something for the remote control to look very simple. We have also button for volume, and to switch on off the T_V_. We have also uh the lightening feature for the remote control to be easy to find, and for fast development and low cost we have decided to have no L_C_D_ no voice features. So now uh we will have three presentations. So the conceptual specification by Industrial Designer, the"
+        },
+        {
+          "meeting_id": "IS1001b",
+          "quote": "So I think it should be a package in that case. Uh so the user interface will consist of two parts. One is the voice command part and on one is the actual buttons part. Uh and th the buttons part would be uh a set of buttons for choosing devices, a set of buttons for special navigation in space,"
+        }
+      ]
+    },
+    {
+      "question_id": "EX05",
+      "answer": "The team considered designing the remote to fit both right- and left-handed people or creating a universal design that is good for both hands. After deciding against speech recognition and LCD technology, the final design retained push buttons for traditional users along with scroll buttons for channel selection, volume control, and teletext browsing.",
+      "citations": [
+        {
+          "meeting_id": "IS1004b",
+          "quote": "Uh people also complain because they they they all have the same size of the buttons for buttons who w which are not very use like f uh memorising channels or or this kind of actions which are not very often but they they shouldn't they shouldn't have the same importance in the in the uh in the remote cont in the remote control. Also the z the design should fit the hand shape. So it may be interesting to to think in a in both prototypes, for right and left handed people."
+        },
+        {
+          "meeting_id": "IS1004c",
+          "quote": "Okay, so push buttons for the traditional users so that they don't feel they are alienated, just and a scroll button with push technology for channel selection, volume control and teletext browsing. These are the three scroll buttons which are already available with us in the company and we we can go ahead with that. Yeah, we can go to the next slide. Then uh there are different kind of chips, one one is the basic chip and the regular chip and one an adva advanced chip. So we can have regular chip for control. Pricing is a factor for us, that's why we'll go for the regular chip."
+        }
+      ]
+    },
+    {
+      "question_id": "EX06",
+      "answer": "The team considered durability and child-proofing important because children-proof remote controls and robust designs were noted as great applications and needs. Regarding screen-based interfaces, a team member raised concerns that screens are too complex, while others questioned the usefulness of a screen compared to simpler controls.",
+      "citations": [
+        {
+          "meeting_id": "IS1006b",
+          "quote": "well, it's it's not an easy field to to play, you know? So be simple. For personal preferences I think that to make a baby-proof remote control it got to be a titanium. It's a really good style, it going to be look like like this. It is unbreakable and it is very universal. W we'll have a screen with a back light which can change colours,"
+        },
+        {
+          "meeting_id": "IS1006a",
+          "quote": "No, no screens, it's too complex."
+        }
+      ]
+    },
+    {
+      "question_id": "EX07",
+      "answer": "To address complicated controls and reduce clutter, the team considered minimizing buttons, using slide buttons on the side for functions like volume, and hiding less frequently used settings. Regarding voice recognition, they noted that the technology was still in an experimental, underdeveloped form, making it hard to predict the time required.",
+      "citations": [
+        {
+          "meeting_id": "ES2012c",
+          "quote": "Um it a lot longer than an off the shelf chip. Oh w yeah, we did the the problem is the the the voice technology is not really highly developed, it's sort of still still in an ex experimental form, uh so it would uh it's hard to predict the time."
+        },
+        {
+          "meeting_id": "ES2012b",
+          "quote": "Yeah, um oh yeah, so possibly the speech recognition is possibly something could add into the design. Oh, I've got some other things I couldn't fit onto this presentation. Um. You see this okay? Almost no? It's sorry it's a bit. I'll read out to you. Uh functionality, uh like people's opinions on functionality, the relevance to the remote and how often they're used. So um like the power. Using the using the d swi the power switch to switch on T_V_ is a high relevance of nine, but it's not frequently used. You see what I mean? Whereas channel selection, which is very high relevance is used the most. So m we can maybe even start to cut down on or I was possibly even thinking of a design that maybe some of the buttons are hidden from everyday use. Maybe like uh a folding ledge or something. So that we can maybe go into the channel settings and the audio settings, which are low relevance and rarely used. And keep the v volume selection and channel selection very easily"
+        }
+      ]
+    },
+    {
+      "question_id": "EX08",
+      "answer": "To reduce repetitive-strain injury, the team planned to make the remote out of a soft, spongy rubber material similar to stress balls and designed it as a single-handed device operated simply with the thumb rather than requiring both hands. However, a team member identified a potential drawback, noting that this different movement could simply cause another type of repetitive stress injury.",
+      "citations": [
+        {
+          "meeting_id": "ES2015d",
+          "quote": "It could cause another type of repetitive stress injury though. But yeah, no I mean it's a different movement so yeah. Um and the feel of it, I mean, we've made this out of Play Doh, which is representing the, you know, the rubber, and the spongy rubberness. Um 'cause it was said before in the material specification that this the this anti-R_S_I_ um material is often used in stress balls so this has got a you know a bit of give to it, and it just feels feels different. Would you like to feel it yourselves? How it fits in the palm of your hand?"
+        },
+        {
+          "meeting_id": "ES2015c",
+          "quote": "Um, we also can choose what materials um, the we could use metal, we could use rubber which might be more um ideal for the anti-R_S_I_. It's like the same sort of rubber that's used in stress balls and things like that, so it's very like soft, not so stressful on your hands. Wood. Um, again, stepping back in time again there. I don't think that's quite up to date with what we're looking for here. Um, titanium is not gonna be possible, even though it just it beyond our budget really. But, would've been maybe for future projects."
+        }
+      ]
+    },
+    {
+      "question_id": "EX09",
+      "answer": "When a button is pressed, a connection is made on a print plate that informs the chip, which then creates a Morse code-like signal sent through transistors and an infrared LED to the television set. The provided evidence is insufficient to describe what a later prototype showed about the placement of the main controls.",
+      "citations": [
+        {
+          "meeting_id": "TS3005b",
+          "quote": "Yes, uh, okay. Um w after it's being composed by the chip uh the signal uh is transported uh to the infra-red bulb, and from there it signals a Morse code-like signal to the to the b to the bulb in uh in the television set. Okay. S Uh I wrote down some personal preferences about uh the remote control. Of course it is very handy if the remote control is hand held, so you don't have to uh uh wind it up or something, or just is it's it's very light to uh to make uh to use it. Uh I personally uh pref prefer that uh it would be p uh come available in the various colours, and uh easy to use buttons. But I suppose that the one of the other team members uh uh thought of that uh too. And it is possible for several designs and um easy to use b uh sorry, easy to use buttons. Perhaps soft touch, uh touch screen uh buttons because uh the rubber buttons are always uh uh they uh slightly uh they can be slightly damaged, uh so the numbers on the buttons are not possible uh to read anymore. And uh well as I said uh before th uh we can uh make several designs. Okay, well, that's my contribution to"
+        }
+      ],
+      "verification_issues": [
+        "Evidence must cover at least two distinct meetings of the team"
+      ]
+    },
+    {
+      "question_id": "EX10",
+      "answer": "ES2013 considered using a rechargeable internal battery instead of replaceable AA batteries, expecting benefits such as long-term convenience, cost savings, and avoiding the need to constantly replace batteries. The docking-station idea was connected to this proposal by giving the device a \"home\" or \"nest\" where it could be stored and simultaneously recharged.",
+      "citations": [
+        {
+          "meeting_id": "ES2013b",
+          "quote": "No, but just a rechargeable internal battery would probably I mean it might cost more to at first to develop and to install, but for long-term use it'll be so much more convenient and economic than fiddling around trying to replace chunky A_A_ batteries and not having any in your kitchen drawer and"
+        },
+        {
+          "meeting_id": "ES2013c",
+          "quote": "Um there are the decisions we have to turn to, but we'll come back to them in a minute after I take us to the minutes of the previous meeting. Right um as we remember, I opened the meeting, the four of us were present, the meeting the first meeting's minutes were reviewed and approved. Um Sarah, you presented a marketing research report um which pretty much rep represented that fifteen to thirty five year olds uh it has to be hand-held, power, channel, volume, number keys, possibly a speech recognition. And then Steph did a second presentation um that those functions plus streamlining them with big user-friendly keys that were easy to use. I think all of us agreed with those things. Kate presented a working design of going after going over the basics on the whiteboard um that it should be a simple mass-produced device, because of the twelve and a half Pence cost. Um but we did talk about possibly using rechargeable batteries and having a docking place as a selling point. Um and the new requirements that it for be for T_V_ only um and that it include the l so slogan and colour of the"
+        }
+      ]
+    }
+  ]
+}
