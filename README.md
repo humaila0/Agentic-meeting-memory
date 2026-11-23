@@ -1,4 +1,4 @@
-# Catalist Media — Agentic AI Meeting Memory
+# Agentic AI Meeting Memory
 
 A local-first Agentic AI prototype for the AMI meeting transcript build test. It processes 138 meeting transcripts, indexes speaker turns using local embeddings, stores searchable data in ChromaDB, and uses Gemini to retrieve and synthesize evidence across meetings.
 
@@ -280,27 +280,4 @@ Current limitations include:
 
 Future improvements include stronger hybrid retrieval, a larger manually verified evaluation set, improved temporal decision tracking, and production-grade monitoring and storage.
 
-## 13. Suggested demonstration (3–5 minutes)
 
-1. Show the project structure and the 138 AMI meeting transcripts.
-2. Explain the ingestion process and local ChromaDB storage.
-3. Run a question that requires evidence from multiple meetings.
-4. Show the generated answer and its transcript citations.
-5. Demonstrate quotation validation.
-6. Show `temporal_memory.json` and the TS3012 pre-final brief.
-7. Explain one limitation and how the system could be improved for 10,000 meetings.
-
-## Security
-
-The following files and folders should not be committed:
-
-```text
-.env
-.venv/
-chroma_db/
-data/source/
-__pycache__/
-*.pyc
-```
-
-Never publish API keys, credentials, or private assignment data.
